@@ -6,7 +6,11 @@
 
 ---
 
+<<<<<<< HEAD
 <p align="center">
+=======
+<p align="center"> 
+>>>>>>> 6d871c558946ebb6e0704caea20815e25f3bf7cf
 <img src="https://raw.githubusercontent.com/carrois/Kernkraft/master/Kernkraft%2001.png" height="900">
 <img src="https://github.com/carrois/Kernkraft/blob/master/Kernschmelze%2001.png" width="400">
 </p>
